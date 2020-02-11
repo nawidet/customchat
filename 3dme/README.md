@@ -1,4 +1,4 @@
-# 3D /me
+# 3D Rainbow Color Chat /me
 The /me command but it's 3D printed.
 
 <img src=https://imgur.com/lJZbcGA.png>
